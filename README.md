@@ -2,4 +2,4 @@
 
 Static page iromanovsky.github.io
 
-[wiki page](../wiki)
+[wiki page](../../wiki)
